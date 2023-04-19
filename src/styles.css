@@ -1,0 +1,20 @@
+body {
+  background: linear-gradient(to right, #f59e0b, #fde68a);
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+span {
+  cursor: pointer;
+  font-size: 2rem;
+  padding: 0.5rem;
+}
+
+input {
+  padding: 0.5rem;
+  font-size: 1rem;
+  width: 300px;
+}
